@@ -3,7 +3,7 @@ I`m self-taught python developer from Russia. My skills are:
 
 - Python, HTML/CSS, Javascript
 - Django
-- Celery, Redis, DRF, channels, BeautifulSoup, requests, gspread and etc.
+- Celery, Redis, DRF, channels, gunicorn, BeautifulSoup, requests, gspread and etc.
 - Windows, Linux
 - SQLite, PostgreSQL 
 - Heroku, Nginx
