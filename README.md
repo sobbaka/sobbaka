@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my page! 👋
+I`m self-taught python developer from Russia. My skills are:
+
+- Python, HTML/CSS, Javascript
+- Django
+- Celery, Redis, DRF, channels, BeautifulSoup, requests, gspread and etc.
+- Windows, Linux
+- SQLite, PostgreSQL 
+- Heroku, Nginx
 
 <!--
 **sobbaka/sobbaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
