@@ -1,5 +1,5 @@
 ### Welcome to my page! 👋
-I`m self-taught python developer from Russia. My skills are:
+I`m self-taught developer from Russia. My skills are:
 
 - Python, HTML/CSS, Javascript
 - Django
